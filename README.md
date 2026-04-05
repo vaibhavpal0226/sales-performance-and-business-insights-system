@@ -2,7 +2,7 @@
 
 The Profit Leak Investigation: A Data-Driven Audit of ₹1.2 Cr Sales using Python, SQL, Excel and Strategic Power BI Dashboards.
 
-* 📜 **Detailed Project Analysis:** [Click here to view the Full Project Report (PDF)]()
+* 📜 **Detailed Project Analysis:** [Click here to view the Full Project Report (PDF)](https://github.com/vaibhavpal0226/sales-performance-and-business-insights-system/blob/main/Sales%20Performance%20%26%20Business%20Insights%20System.pdf)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
@@ -174,7 +174,7 @@ Built a 3-page interactive dashboard:
 
 <h2 id="detailed-report">📄 Detailed Findings Report</h2>
 
-*For a detailed breakdown of the findings, please refer to the [Sales Performance & Business Insights System Report]().*
+*For a detailed breakdown of the findings, please refer to the [Sales Performance & Business Insights System Report](https://github.com/vaibhavpal0226/sales-performance-and-business-insights-system/blob/main/Sales%20Performance%20%26%20Business%20Insights%20System.pdf).*
 
 ---
 
