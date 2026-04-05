@@ -126,13 +126,13 @@ Performed structured analysis using SQL:
 
 Built a 3-page interactive dashboard:
 
-🔹 Sales Overview
+* Sales Overview
    * KPIs: Sales, Profit, Quantity, Profit Margin
    * Sales trends & regional performance
-🔹 Product Performance
+* Product Performance
    * Top vs loss-making products
    * Category-level insights
-🔹 Customer & Discount Analysis
+* Customer & Discount Analysis
    * Customer segmentation
    * Discount vs profit analysis
 
