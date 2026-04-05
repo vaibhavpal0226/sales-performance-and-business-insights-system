@@ -99,7 +99,7 @@ The data used in this project is sourced from Kaggle. The dataset consists of 50
 * **Data Cleaning:**
    * Converted date columns to datetime format.
    * Removed inconsistent and invalid records.    
-* **Feature Engineering:** Created key features::
+* **Feature Engineering:** Created key features:
    * Profit Margin → Performance metric
    * Delivery Days → Operational efficiency
    * High Discount Flag → Discount impact analysis
